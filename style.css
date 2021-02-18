@@ -1,0 +1,50 @@
+body {
+	background-color: orange;
+	font-family: Arial, Aladin;
+}
+
+h1, h3 {
+	font-family: Aladin, Arial, sans-sections
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	background-color: skyblue;
+	font-size: 50px
+}
+
+h2 {
+	text-align: center;
+	color: #555555;
+	font-size: 25px 
+	font-family: Ale;
+}
+
+h3{
+	text-align: center;
+	color: #cc6600;
+	font-size: 40px
+	margin-top: 0px;
+	margin-bottom: 10px;
+
+section {
+		background-color: #BBBBBB;
+		width:  70%
+		margin: 20px auto;
+		padding: 30px;
+		text-align: left;
+}
+img {
+	height: 250px;
+	width: 100%;
+	object-fit:cover;
+	/*object-position: 0px -250px;*/
+
+	/*Propiedades para centrar*/
+	display: block;
+	margin: 0px auto;
+	/*------------------------*/
+}
+
+/*Probando GIT*/
